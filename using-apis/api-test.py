@@ -1,6 +1,7 @@
 '''
 Author: Owen Barnett
-Gets the movies from the specifed year, if a title is provided it prints all the movies
+Gets the movies from the specifed year, if a title is not provided it prints all the movies from that year
+If a title is provided it will print the details of the specified movie
 '''
 
 import requests
